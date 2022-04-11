@@ -38,3 +38,5 @@ You can help [translate](https://github.com/Snipaste/translations) Snipaste, imp
 [![](https://img.shields.io/badge/Telegram-中文群-40ace3.svg)](https://t.me/+JA6olNmS6302ODE1)
 [![](https://img.shields.io/badge/Telegram-中文频道-40ace3.svg)](https://t.me/snipaste)
 [![](https://img.shields.io/badge/微博-@Snipaste-eb192d.svg)](https://weibo.com/snipaste)
+
+https://docs.snipaste.com/zh-cn/getting-started
